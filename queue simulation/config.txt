@@ -1,0 +1,2 @@
+2 1 200 500 2000 2500 0
+thread customers delay(min max) solvetime(min max) beginnum
